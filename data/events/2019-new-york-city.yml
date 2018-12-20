@@ -168,6 +168,8 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
+  - id: stack-overflow
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
